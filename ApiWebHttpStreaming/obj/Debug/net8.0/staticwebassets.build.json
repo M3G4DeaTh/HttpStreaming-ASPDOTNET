@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8wg5krYxbAc35WwqJdG2chTFfcmeq0DdrTeuKuh6qn8=",
+  "Source": "ApiWebHttpStreaming",
+  "BasePath": "_content/ApiWebHttpStreaming",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
